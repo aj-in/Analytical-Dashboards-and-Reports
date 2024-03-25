@@ -28,10 +28,11 @@ https://public.tableau.com/app/profile/aj.aj/viz/AirbnbAnalysis_17084627250960/D
 
 
 
-A visualization that provides data-driven insights into cardiovascular risk factors based on the dataset obtained from the UCI Machine Learning Repository
+A visualization that provides data-driven insights into cardiovascular risk factors based on the dataset obtained from the UCI Machine Learning Repository. The users of this Dashboard can adjust different filters to analyze trends in a specific subset of data.
+
 
 ```
-https://public.tableau.com/app/profile/aj.aj/vizzes
+https://public.tableau.com/app/profile/aj.aj/viz/HeartFailurePrediction_17113936255390/Dashboard1
 ```
 
 <p>
