@@ -23,7 +23,31 @@ https://public.tableau.com/app/profile/aj.aj/viz/AirbnbAnalysis_17084627250960/D
 
 <br>
 
-<h3> 2) Washington House Sales </h3>
+
+<h3> 2) Heart Prediciton Failures </h3>
+
+
+
+A visualization that provides data-driven insights into cardiovascular risk factors based on the dataset obtained from the UCI Machine Learning Repository
+
+```
+https://public.tableau.com/app/profile/aj.aj/vizzes
+```
+
+<p>
+<p>
+
+
+
+https://github.com/aj-in/Tableau-Dashboards/assets/74534547/d8d4fbe1-0e75-442d-aba1-b45e00273c58
+
+
+
+------------------------------------------
+
+<br>
+
+<h3> 3) Washington House Sales </h3>
 
 
 This Tableau dashboard was created for a comprehensive analysis of Washington State's housing market, wherein multiple filters were applied to enable more dynamic and explanatory analysis but investors.
