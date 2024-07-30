@@ -1,5 +1,5 @@
-# Tableau-Dashboards
-This repository is a compilation of Tableau Dashboards based on publicly available datasets  
+# Analytics-Dashboards
+This repository is a compilation of Tableau Dashboards and Power-BI Reports based on publicly available datasets  
 
 
 
@@ -63,6 +63,13 @@ https://public.tableau.com/app/profile/aj.aj/viz/WashingtonHouseSales_1708634519
 
 https://github.com/aj-in/Tableau-Dashboards/assets/74534547/887d520f-5446-405e-b8a0-5f5cb9c60787
 
+------------------------------------------
+
+<br>
+
+<h3> 4) AtliQ Hardware Sales Analytics </h3>
+
+This comprehensive Power-BI Report analyses the YoY trends of an Electronics company and gives insights on which potential markets could use more attention
 
 
  
