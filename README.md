@@ -71,6 +71,10 @@ https://github.com/aj-in/Tableau-Dashboards/assets/74534547/887d520f-5446-405e-b
 
 This comprehensive Power-BI Report analyses the YoY trends of an Electronics company and gives insights on which potential markets could use more attention
 
+```
+https://app.powerbi.com/groups/me/reports/baceae68-feca-4eee-a5ba-2e40e082ed48/b2a657120d2476d26ee9?experience=power-bi
+```
+
 
  
 
