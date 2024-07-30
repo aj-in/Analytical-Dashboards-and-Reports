@@ -67,15 +67,24 @@ https://github.com/aj-in/Tableau-Dashboards/assets/74534547/887d520f-5446-405e-b
 
 <br>
 
-<h3> 4) AtliQ Hardware Sales Analytics </h3>
+<h3> 4) Electronics Sales Analytics </h3>
 
-This comprehensive Power-BI Report analyses the YoY trends of an Electronics company and gives insights on which potential markets could use more attention
+This comprehensive Power-BI Report analyses the YoY trends of an electronics company giving informative insights about potential markets and their growth opportunities, red alerts for certain visualizations were created based on user-defined thresholds. A mobile-view of the report was created for users on-the-go, improving overall accessibility. This report made extensive use of insightful base measures to derive targeted insights.
+
+<br>
 
 ```
 https://app.powerbi.com/groups/me/reports/baceae68-feca-4eee-a5ba-2e40e082ed48/b2a657120d2476d26ee9?experience=power-bi
 ```
+<p>
+<p>
+
 
 
  
+
+
+https://github.com/user-attachments/assets/8e260dea-0060-439d-9f13-60b767993813
+
 
 
